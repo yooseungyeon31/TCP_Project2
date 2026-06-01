@@ -1,3 +1,5 @@
-2026/06/01-17:22:44.722 1148 Reusing MANIFEST C:\Work\TCP_Project2\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
-2026/06/01-17:22:44.722 1148 Recovering log #3
-2026/06/01-17:22:44.723 1148 Reusing old log C:\Work\TCP_Project2\Saved\webcache_6613_1\Default\Site Characteristics Database/000003.log 
+2026/06/01-20:50:54.189 1e74 Log #3: 4 ops saved to Table #4 OK
+2026/06/01-20:50:54.203 1e74 Archiving C:\Unreal\TCP_Project2\Saved\webcache_6613_1\Default\Site Characteristics Database/000003.log: OK
+2026/06/01-20:50:54.204 1e74 Table #4: 4 entries OK
+2026/06/01-20:50:54.209 1e74 Archiving C:\Unreal\TCP_Project2\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/06/01-20:50:54.223 1e74 **** Repaired leveldb C:\Unreal\TCP_Project2\Saved\webcache_6613_1\Default\Site Characteristics Database; recovered 1 files; 236 bytes. Some data may have been lost. ****
