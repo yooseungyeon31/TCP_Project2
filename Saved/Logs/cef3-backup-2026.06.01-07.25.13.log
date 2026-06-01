@@ -1,0 +1,8 @@
+[13308:14152:0601/153007.131:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13308:10280:0601/153007.165:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[13308:14152:0601/153007.175:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14436:11912:0601/153011.630:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E19E1DC9783DC92BB5027131CF229998 will be ignored
+[5488:14112:0601/153013.562:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-1D2CA81EEFF8F021287F99EA66AC9CE6 will be ignored
+[9904:14240:0601/153013.695:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[13308:14152:0601/162238.163:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13308:14152:0601/162513.982:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
