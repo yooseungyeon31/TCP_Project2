@@ -1,34 +1,7 @@
-[10840:9332:0602/103435.725:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[15344:14284:0602/103435.735:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[10840:9332:0602/103435.771:ERROR:os_crypt_win.cc(100)] Failed to decrypt: 키를 지정된 상태에서 사용하기에 부적합합니다. (0x8009000B)
-[15344:3772:0602/103435.791:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[15344:14284:0602/103435.803:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[10840:6580:0602/103435.889:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[10840:9332:0602/103435.927:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[3644:9504:0602/103439.863:ERROR:backend_impl.cc(989)] Critical error found -8
-[3644:9504:0602/103440.095:WARNING:storage_block-inl.h(138)] Failed data load.
-[3644:9504:0602/103440.110:WARNING:storage_block-inl.h(138)] Failed data load.
-[3644:9504:0602/103440.174:ERROR:entry_impl.cc(955)] Failed to save user data
-[15344:14284:0602/103441.709:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[15344:14284:0602/103441.710:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[15344:14284:0602/103441.710:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[15344:14284:0602/103441.710:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[15344:15828:0602/103441.977:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[824:10728:0602/103459.862:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[824:10728:0602/103500.185:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[824:6300:0602/103500.210:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[824:6300:0602/103500.211:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[824:6300:0602/103500.212:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[14428:5748:0602/103500.278:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[14428:5748:0602/103500.279:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[14428:5748:0602/103500.279:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[14428:5748:0602/103500.279:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[824:6300:0602/103500.279:WARNING:stun_port.cc(442)] Port[1beb000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[824:6300:0602/103500.279:WARNING:stun_port.cc(442)] Port[48c2800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[824:6300:0602/103500.279:WARNING:stun_port.cc(442)] Port[48c3800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[10868:5792:0602/103538.993:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-BF9EE1F642671CB666EEB4C06EC40F9D will be ignored
-[10840:9332:0602/103635.111:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-[16268:12808:0602/103754.422:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-9E2FBB11F28C34F23CAC956605FCF3F0 will be ignored
-[276:8728:0602/103754.494:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[276:8728:0602/103754.494:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[15344:14284:0602/133125.254:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[12560:2384:0602/133258.273:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12560:8996:0602/133258.331:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12560:2384:0602/133258.342:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1096:1452:0602/133303.289:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B5B4CFF2653C20D82380EE9CB2C45A62 will be ignored
+[9204:8056:0602/133343.819:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-B7E481916135E8DAD947EDA0AC1A6F22 will be ignored
+[12560:2384:0602/140703.547:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12560:2384:0602/174722.502:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
