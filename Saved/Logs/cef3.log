@@ -1,6 +1,31 @@
-[19780:16532:0608/163303.349:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[19780:17944:0608/163303.426:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[19780:16532:0608/163303.461:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[19788:19228:0608/163306.724:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3414AB7609202C43AD125AFE71D08945 will be ignored
-[19780:16532:0608/174613.810:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19780:16532:0608/174701.657:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[11724:5768:0609/162221.284:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11724:14556:0609/162221.709:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[11724:5768:0609/162221.957:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15524:12256:0609/162225.065:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15524:21584:0609/162225.200:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15524:12256:0609/162225.272:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15524:12256:0609/162303.380:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[15524:12256:0609/162303.380:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[15524:12256:0609/162303.380:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[15524:12256:0609/162303.380:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[15524:14404:0609/162303.648:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[15524:12256:0609/162305.596:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[11724:5768:0609/162314.650:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[7988:6956:0609/162315.985:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[7988:6956:0609/162316.201:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[7988:17680:0609/162316.334:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[7988:17680:0609/162316.335:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[7988:17680:0609/162316.338:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18072:18676:0609/162316.364:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[18072:18676:0609/162316.367:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[18072:18676:0609/162316.367:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[18072:18676:0609/162316.367:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[7988:17680:0609/162316.367:WARNING:stun_port.cc(442)] Port[4794800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[7988:17680:0609/162316.368:WARNING:stun_port.cc(442)] Port[4795000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[7988:17680:0609/162316.369:WARNING:stun_port.cc(442)] Port[4795800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[22496:8720:0609/162522.042:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[22496:8720:0609/162522.042:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[15524:12256:0609/164316.503:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15524:12256:0609/164333.006:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15524:12256:0609/164544.094:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15524:12256:0609/174930.504:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

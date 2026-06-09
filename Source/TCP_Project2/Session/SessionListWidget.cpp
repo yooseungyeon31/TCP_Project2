@@ -23,7 +23,7 @@ void USessionListWidget::SetInfo()
 	Sessions.Empty();
 
 	// Child UI 미리 틀만 10개 만들어 두기
-	for (int i = 0; i < 10; i++)
+	for (int i = 0; i < 3; i++)
 	{
 		// 생성할 UI 클래스 레퍼런스가 없으면 넘기기
 		if (SessionItemClass == nullptr)
