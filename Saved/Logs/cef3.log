@@ -1,6 +1,27 @@
-[7340:1620:0610/130626.534:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[7340:8768:0610/130626.902:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[7340:1620:0610/130627.044:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[7120:16756:0610/130637.800:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0A9ED1F46D9379897DCADC6548A7D399 will be ignored
-[7340:1620:0610/131947.478:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[7340:1620:0610/174728.429:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[1388:12384:0611/154419.675:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[1388:9956:0611/154419.733:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[1388:12384:0611/154419.761:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14860:6032:0611/154424.605:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CA467801F895D2F4B54AAE3C77C31C6F will be ignored
+[1388:12184:0611/154426.271:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[1388:12384:0611/154426.922:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[1388:12384:0611/154426.922:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[1388:12384:0611/154426.922:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[1388:12384:0611/154426.922:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[1388:12184:0611/154426.926:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[7668:22396:0611/154433.286:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[7668:22396:0611/154433.420:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[7668:21744:0611/154433.426:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[7668:21744:0611/154433.427:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[7668:21744:0611/154433.427:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[16480:2916:0611/154433.602:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[16480:2916:0611/154433.604:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[16480:2916:0611/154433.604:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[16480:2916:0611/154433.604:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[7668:21744:0611/154433.604:WARNING:stun_port.cc(442)] Port[42ba800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[7668:21744:0611/154433.604:WARNING:stun_port.cc(442)] Port[42bb000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[7668:21744:0611/154433.604:WARNING:stun_port.cc(442)] Port[42bb800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4184:14108:0611/154642.195:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[4184:14108:0611/154642.195:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[1388:12384:0611/155725.568:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1388:12384:0611/155735.570:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1388:12384:0611/174114.617:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
