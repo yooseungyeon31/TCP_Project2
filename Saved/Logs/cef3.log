@@ -1,57 +1,27 @@
-[4392:1712:0615/113843.098:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4392:16744:0615/113843.494:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[4392:1712:0615/113843.761:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14568:1928:0615/113854.115:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B1ED4CBDA8572FE357730BABDD6FF58F will be ignored
-[4392:14748:0615/113856.110:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[4392:1712:0615/113856.496:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[4392:1712:0615/113856.496:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[4392:1712:0615/113856.496:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[4392:1712:0615/113856.496:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[4392:14748:0615/113856.507:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[15924:1960:0615/113900.464:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[15924:1960:0615/113900.612:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[15924:1184:0615/113900.631:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[15924:1184:0615/113900.631:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[15924:1184:0615/113900.632:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[5292:1240:0615/113900.929:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[5292:1240:0615/113900.933:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[5292:1240:0615/113900.933:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[5292:1240:0615/113900.933:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[15924:1184:0615/113900.933:WARNING:stun_port.cc(442)] Port[4a2f800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[15924:1184:0615/113900.933:WARNING:stun_port.cc(442)] Port[4d84800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[15924:1184:0615/113900.933:WARNING:stun_port.cc(442)] Port[4d85000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[17588:3776:0615/114104.663:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[17588:3776:0615/114104.663:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[4392:1712:0615/114147.856:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4392:1712:0615/114152.864:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4392:1712:0615/114157.864:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4392:1712:0615/114207.888:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4392:1712:0615/114212.888:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4392:1712:0615/114258.406:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4392:1712:0615/114308.406:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4392:1712:0615/114313.407:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4392:1712:0615/114318.408:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17188:3392:0615/135118.164:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame C-EE250F74A8FAAB7D215860C0F64BA145 will be ignored
-[17588:17076:0615/135235.388:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
-
-[17588:17076:0615/135235.547:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
-
-[17588:9184:0615/135236.198:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[17588:13592:0615/135236.201:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[17588:16184:0615/135236.210:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[2796:16756:0615/144053.351:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame E-3D81EAC50FECB6F707BCB91F02AD08C0 will be ignored
-[4392:1712:0615/172248.020:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4392:1712:0615/172403.079:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4392:1712:0615/172408.085:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4392:1712:0615/172418.089:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4392:1712:0615/174845.677:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[9588:2436:0616/133036.660:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9588:5992:0616/133037.144:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9588:2436:0616/133037.435:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8056:13324:0616/133043.970:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-25F973AB7CF170158F880513A4A7D647 will be ignored
+[9588:14160:0616/133044.443:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[9588:2436:0616/133044.478:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
+[9588:2436:0616/133044.478:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
+[9588:2436:0616/133044.478:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
+[9588:2436:0616/133044.478:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
+[9588:14160:0616/133044.511:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,5]
+[13628:14816:0616/133044.847:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-35736D360C6FE941E3D22F409E86B67C will be ignored
+[956:13956:0616/133044.865:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[17248:14732:0616/133047.241:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17248:14732:0616/133047.458:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17248:17944:0616/133047.484:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17248:17944:0616/133047.485:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17248:17944:0616/133047.485:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17340:18368:0616/133047.495:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[17340:18368:0616/133047.501:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[17340:18368:0616/133047.501:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[17340:18368:0616/133047.501:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[17248:17944:0616/133047.501:WARNING:stun_port.cc(442)] Port[4e80800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17248:17944:0616/133047.502:WARNING:stun_port.cc(442)] Port[4e81000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17248:17944:0616/133047.502:WARNING:stun_port.cc(442)] Port[4e81800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[956:13956:0616/133252.902:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[956:13956:0616/133252.902:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[9588:2436:0616/172643.532:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -493,6 +493,8 @@
 				"C:/Work/TCP_Project2/Content/RPGTinyFantasyForest/Material/BaseMAT/M_WaterSplash.uasset",
 				"C:/Work/TCP_Project2/Content/Blueprints/Obstacle/BP_TurnCylinder2.uasset",
 				"C:/Work/TCP_Project2/Content/Blueprints/Obstacle/BP_UpDown.uasset",
+				"C:/Work/TCP_Project2/Content/Blueprints/Obstacle/BP_Slide.uasset",
+				"C:/Work/TCP_Project2/Content/Blueprints/Obstacle/BP_SlideFloor.uasset",
 				"C:/Work/TCP_Project2/Content/Blueprints/Weapon/BP_Sword.uasset",
 				"C:/Work/TCP_Project2/Content/Blueprints/BP_GameMode.uasset",
 				"C:/Work/TCP_Project2/Content/Blueprints/BP_PlayerController.uasset",
