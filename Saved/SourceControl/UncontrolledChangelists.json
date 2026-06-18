@@ -498,6 +498,8 @@
 				"C:/Work/TCP_Project2/Content/Blueprints/Obstacle/BP_FallDown.uasset",
 				"C:/Work/TCP_Project2/Content/Blueprints/Obstacle/BP_ZigZag.uasset",
 				"C:/Work/TCP_Project2/Content/Blueprints/BP_CheckPoint.uasset",
+				"C:/Work/TCP_Project2/Content/Blueprints/Monster/BP_Monster.uasset",
+				"C:/Work/TCP_Project2/Content/Blueprints/Animation/Monster/ABP_Monster.uasset",
 				"C:/Work/TCP_Project2/Content/Blueprints/Weapon/BP_Sword.uasset",
 				"C:/Work/TCP_Project2/Content/Blueprints/BP_GameMode.uasset",
 				"C:/Work/TCP_Project2/Content/Blueprints/BP_PlayerController.uasset",
