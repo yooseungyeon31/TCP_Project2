@@ -1,3 +1,6 @@
-2026/06/18-16:26:40.956 2740 Reusing MANIFEST C:\Work\TCP_Project2\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/18-16:26:40.978 2740 Recovering log #17
-2026/06/18-16:26:40.979 2740 Reusing old log C:\Work\TCP_Project2\Saved\webcache_6613_1\Default\Local Storage\leveldb/000017.log 
+2026/06/19-13:29:57.418 2a74 Reusing MANIFEST C:\Work\TCP_Project2\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/19-13:29:57.433 2a74 Recovering log #17
+2026/06/19-13:29:57.434 2a74 Reusing old log C:\Work\TCP_Project2\Saved\webcache_6613_1\Default\Local Storage\leveldb/000017.log 
+2026/06/19-13:45:14.246 3464 Level-0 table #21: started
+2026/06/19-13:45:14.253 3464 Level-0 table #21: 63143 bytes OK
+2026/06/19-13:45:14.256 3464 Delete type=0 #17
