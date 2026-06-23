@@ -1,6 +1,14 @@
-2026/06/19-13:29:57.418 2a74 Reusing MANIFEST C:\Work\TCP_Project2\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/19-13:29:57.433 2a74 Recovering log #17
-2026/06/19-13:29:57.434 2a74 Reusing old log C:\Work\TCP_Project2\Saved\webcache_6613_1\Default\Local Storage\leveldb/000017.log 
-2026/06/19-13:45:14.246 3464 Level-0 table #21: started
-2026/06/19-13:45:14.253 3464 Level-0 table #21: 63143 bytes OK
-2026/06/19-13:45:14.256 3464 Delete type=0 #17
+2026/06/23-11:47:06.980 2588 Reusing MANIFEST C:\Work\TCP_Project2\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/23-11:47:06.994 2588 Recovering log #20
+2026/06/23-11:47:06.994 2588 Level-0 table #23: started
+2026/06/23-11:47:07.001 2588 Level-0 table #23: 62543 bytes OK
+2026/06/23-11:47:07.004 2588 Delete type=0 #20
+2026/06/23-11:47:07.004 114c Compacting 4@0 + 1@1 files
+2026/06/23-11:47:07.017 114c Generated table #25@0: 11 keys, 25991 bytes
+2026/06/23-11:47:07.018 114c Compacted 4@0 + 1@1 files => 25991 bytes
+2026/06/23-11:47:07.019 114c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/06/23-11:47:07.019 114c Delete type=2 #13
+2026/06/23-11:47:07.019 114c Delete type=2 #15
+2026/06/23-11:47:07.020 114c Delete type=2 #18
+2026/06/23-11:47:07.020 114c Delete type=2 #21
+2026/06/23-11:47:07.020 114c Delete type=2 #23
