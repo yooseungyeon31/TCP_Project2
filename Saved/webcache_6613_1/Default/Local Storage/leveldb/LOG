@@ -1,14 +1,2 @@
-2026/06/23-11:47:06.980 2588 Reusing MANIFEST C:\Work\TCP_Project2\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/23-11:47:06.994 2588 Recovering log #20
-2026/06/23-11:47:06.994 2588 Level-0 table #23: started
-2026/06/23-11:47:07.001 2588 Level-0 table #23: 62543 bytes OK
-2026/06/23-11:47:07.004 2588 Delete type=0 #20
-2026/06/23-11:47:07.004 114c Compacting 4@0 + 1@1 files
-2026/06/23-11:47:07.017 114c Generated table #25@0: 11 keys, 25991 bytes
-2026/06/23-11:47:07.018 114c Compacted 4@0 + 1@1 files => 25991 bytes
-2026/06/23-11:47:07.019 114c compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/06/23-11:47:07.019 114c Delete type=2 #13
-2026/06/23-11:47:07.019 114c Delete type=2 #15
-2026/06/23-11:47:07.020 114c Delete type=2 #18
-2026/06/23-11:47:07.020 114c Delete type=2 #21
-2026/06/23-11:47:07.020 114c Delete type=2 #23
+2026/06/23-23:46:34.948 72dc Creating DB C:\Unreal\TCP_Project2\Saved\webcache_6613_1\Default\Local Storage\leveldb since it was missing.
+2026/06/23-23:46:34.982 72dc Reusing MANIFEST C:\Unreal\TCP_Project2\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
