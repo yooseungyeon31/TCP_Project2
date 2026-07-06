@@ -1,9 +1,12 @@
-[12516:16752:0706/154150.407:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[12516:18836:0706/154150.501:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[12516:16752:0706/154150.575:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[19836:20240:0706/154155.329:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-29DFE06DC85EED14DC27FEFB9B800CF6 will be ignored
-[12516:16752:0706/154915.016:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[12516:16752:0706/154920.016:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[12516:16752:0706/154925.016:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[12516:16752:0706/155058.385:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[12516:16752:0706/174650.709:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[4528:33332:0706/221802.445:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4528:33452:0706/221802.525:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[4528:33332:0706/221802.560:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[4528:38212:0706/221806.137:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal\TCP_Project2\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Unreal\TCP_Project2\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[4528:38212:0706/221806.147:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal\TCP_Project2\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Unreal\TCP_Project2\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[4528:38212:0706/221806.157:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal\TCP_Project2\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Unreal\TCP_Project2\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[4528:38212:0706/221806.165:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal\TCP_Project2\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Unreal\TCP_Project2\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[4528:34500:0706/221807.054:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[4528:34500:0706/221807.064:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[34100:28208:0706/221808.749:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-688526DF9A56D81BC922D86F98969BAC will be ignored
+[4528:33332:0707/004133.073:ERROR:device_event_log_impl.cc(196)] [00:41:32.771] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[4528:33332:0707/020242.460:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
