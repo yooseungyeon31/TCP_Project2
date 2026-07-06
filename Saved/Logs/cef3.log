@@ -1,5 +1,9 @@
-[4916:7320:0706/090324.541:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4916:15548:0706/090324.881:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[4916:7320:0706/090325.010:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[18836:18736:0706/090329.492:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F5F9095CCD5F8FC63B6FF3210A434860 will be ignored
-[4916:7320:0706/111905.889:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[12516:16752:0706/154150.407:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12516:18836:0706/154150.501:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12516:16752:0706/154150.575:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19836:20240:0706/154155.329:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-29DFE06DC85EED14DC27FEFB9B800CF6 will be ignored
+[12516:16752:0706/154915.016:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12516:16752:0706/154920.016:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12516:16752:0706/154925.016:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12516:16752:0706/155058.385:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12516:16752:0706/174650.709:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
